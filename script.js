@@ -58,10 +58,10 @@ function Winner() {
         (gameBoard[0] == gameBoard[4] && gameBoard[0] == gameBoard[8] && (gameBoard[8] == "x" || gameBoard[8] == "o")) ||
         (gameBoard[2] == gameBoard[4] && gameBoard[2] == gameBoard[6] && (gameBoard[6] == "x" || gameBoard[6] == "o"))) {
         if(currentPlayer == "p1") {
-            winnerBanner.innerHTML = "Player1 wins!";
+            winnerBanner.innerHTML = "Player 1 wins 🎉 🥳";
             over = true;
         } else {
-            winnerBanner.innerHTML = "Player2 wins!";
+            winnerBanner.innerHTML = "Player 2 wins 🎉 🥳";
             over = true;
         }
     }
