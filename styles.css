@@ -31,6 +31,7 @@ body {
 .x-o {
     display: flex;
     flex-wrap: wrap;
+    background: #DC2626;
 }
 .choice {
     font-size: 170px;
