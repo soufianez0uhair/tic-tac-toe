@@ -19,7 +19,6 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
-    flex-wrap: wrap;
     gap: 13px;
     background: #DC2626;
 }
