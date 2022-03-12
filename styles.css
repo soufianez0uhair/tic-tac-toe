@@ -21,6 +21,7 @@ body {
     flex-direction: column;
     flex-wrap: wrap;
     gap: 13px;
+    background: #DC2626;
 }
 .initial-text {
     font-size: 20px;
@@ -30,6 +31,7 @@ body {
 }
 .x-o {
     display: flex;
+    flex-wrap: wrap;
 }
 .choice {
     font-size: 170px;
